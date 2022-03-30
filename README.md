@@ -9,3 +9,7 @@
 ### Used libraries
 - Tkinter
 - os
+
+### UI
+
+![Pomodoro Tracker App](https://i.imgur.com/EDYpN57.png)
